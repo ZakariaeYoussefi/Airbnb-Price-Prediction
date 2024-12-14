@@ -47,8 +47,8 @@ This project is particularly helpful for Airbnb hosts looking to optimize their 
 - **Pandas**: Data cleaning and preprocessing  
 - **NumPy**: Numerical operations  
 - **Matplotlib** and **Seaborn**: Data visualization and EDA  
-- **Scikit-learn**: Machine learning model building and fine-tuning  
-- **Folium**: Mapping and visualizing predictions  
+- **Scikit-learn**: Machine learning model building and fine-tuning
+- **Excel VBA**: For Minimal Cleaning of the dataset
 
 ---
 
